@@ -74,7 +74,7 @@ Use *Wireless Diagnostics* from the Wi-Fi menu or restart your Wi-Fi service in 
 
 ✅ **Disable Firewall or Security Software Temporarily**
 
-Sometimes, firewall or antivirus programs can block network communication. Disable them briefly to test if the printer connects successfully.
+Sometimes, firewall or antivirus programs can block network communication. Disable them briefly to test if the printer connects successfully
 
 ✅ **Reset Network Settings on the Printer**
 
