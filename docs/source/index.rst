@@ -81,7 +81,7 @@ Sometimes, firewall or antivirus programs can block network communication. Disab
 As a last resort, reset the printer’s network settings:
 
 On the printer’s control panel, go to *Settings > Device Settings > Reset Settings > Reset LAN Settings*.
-Then reconnect the printer to your Wi-Fi network.
+Then reconnect the printer to your WiFi network.
 
 `Click Here: Get the Live Canon Printer Support <https://jivo.chat/KlZSRejpBm>`_
 
