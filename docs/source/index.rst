@@ -88,4 +88,4 @@ Then reconnect the printer to your WiFi network.
 Conclusion
 ----------
 
-If your Canon printer isn’t connecting to the internet on Windows or Mac, it’s typically due to signal problems, outdated software, or incorrect settings. By checking Wi-Fi strength, updating drivers, restarting devices, and reconnecting the printer to your network, you can resolve most issues quickly. Regular firmware updates and Wi-Fi maintenance help avoid recurring problems.
+If your Canon printer isn’t connecting to the internet on Windows or Mac, it’s typically due to signal problems, outdated software, or incorrect settings. By checking Wi-Fi strength, updating drivers, restarting devices, and reconnecting the printer to your network, you can resolve most issues quickly. Regular firmware updates and WiFi maintenance help avoid recurring problems.
